@@ -1,4 +1,4 @@
-# OS_segmentation_memory_manager
+# Memory Management Simulator
 
 OS Segmentation Project is a project that simulatces memory managment process of Operating systems. 
 it's ma,inlyu an educational tool
